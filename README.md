@@ -24,7 +24,7 @@ Any smart editor / IDE supporting HTML and JS editing, preferably with syntax hi
 * Adobe Brackets (Open Source) http://brackets.io/
 * Visual Studio Code (free) https://code.visualstudio.com/
 * Visual Studio Community + Web Essentials + js editor http://vswebessentials.com/
-* IntelliJ / Web Storm https://netbeans.org/
+* IntelliJ / Web Storm https://www.jetbrains.com/
 * NetBeans https://netbeans.org/
 * Eclipse http://eclipse.org
 
