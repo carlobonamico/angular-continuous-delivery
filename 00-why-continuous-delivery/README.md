@@ -67,7 +67,9 @@ Duration and complexity of deployments
 ## Reducing Risk
 
 Continuous Delivery
+![Risk](ReleaseRisk.png)
 
+## So...
 Avoid huge manual changes
 * 1-2 macro releases per year
 * Each requiring seven people each one of which has intimate detail of a single issue in the process
