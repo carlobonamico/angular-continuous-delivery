@@ -4,6 +4,7 @@
 Continuous Integration
 http://www.slideshare.net/carlo.bonamico/continuous-integration-with-hudson
 
+http://www.wakaleo.com/books/jenkins-the-definitive-guide
 
 ##Best Practices
 Good old Software Engineering Principles still apply!
@@ -14,6 +15,8 @@ S.O.L.I.D.
 http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 
 ##References - Ansible
+http://www.slideshare.net/carlo.bonamico/infrastructure-as-data-with-ansible-for-easier-continuous-delivery
+
 Ansible Home & Ansible Docs
 http://www.ansibleworks.com/docs/
 Presentations
@@ -40,8 +43,7 @@ References
 
 https://playbook.cio.gov/
 
-Kanban e Lean
-
+## Kanban & Lean
 
 Deming
 http://leanandkanban.wordpress.com/2011/07/15/demings-14-points/
@@ -52,12 +54,26 @@ http://refcardz.dzone.com/refcardz/getting-started-lean-software
 Kanban
 http://www.slideshare.net/ziobrando/forest-and-trees-with-kanban
 
-
-http://www.slideshare.net/carlo.bonamico/continuous-integration-with-hudson (la nostra presentazione piu' popolare, con oltre 120000 visualizzazioni)
-http://www.slideshare.net/carlo.bonamico/infrastructure-as-data-with-ansible-for-easier-continuous-delivery
+## Maven
 http://www.slideshare.net/carlo.bonamico/maven-2-in-the-real-world-presentation
 
+# Docker
 
+http://www.slideshare.net/carlo.bonamico/codemotiondocker2014
+
+#Angular
+General references on large-scale Angular Apps
+* http://www.slideshare.net/MischaDasberg/devoxx-enterprise-scale-angular
+
+Videos
+http://rangle.io/resources/index.html
+
+https://www.airpair.com/angularjs/posts/ng-directive-componentization-composition
+
+https://leanpub.com/angularjsdirectives
+
+Component-based development from 1.4 towards 2.0
+https://www.parleys.com/tutorial/angular-1-x
 
 
 

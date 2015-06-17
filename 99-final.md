@@ -5,7 +5,8 @@ Other presentations
 * http://www.slideshare.net/carlo.bonamico/presentations 
 
 Follow me on Twitter
- @carlobonamico
+ @carlobonamico - https://twitter.com/carlobonamico
+ 
 updates on Docker, Ansible, Continuous Delivery
 and some AngularJS!
 
