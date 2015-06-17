@@ -1,0 +1,22 @@
+{
+  "name": "angular-continuous-lab",
+  "version": "0.0.1",
+  "description": "Interactive Lab ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "karma": "~0.12.36",
+    "phantomjs": "~1.9.17",
+    "karma-phantomjs-launcher": "~0.2.0",
+    "jasmine-core": "~2.3.4",
+    "karma-jasmine": "~0.3.5",
+    "karma-html-reporter": "~0.2.6",
+    "karma-junit-reporter": "~0.2.2",
+    "karma-ng-html2js-preprocessor": "~0.1.2",
+  
+  }
+}
