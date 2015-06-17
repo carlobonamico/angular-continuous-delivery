@@ -64,6 +64,10 @@ Duration and complexity of deployments
 ## Risk
 * Trenord vs Metro Paris
 
+![Metro](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Metro_Paris_-_Ligne_1_-_Berault_-_Installation_facades_de_quai_%2830%29.jpg/220px-Metro_Paris_-_Ligne_1_-_Berault_-_Installation_facades_de_quai_%2830%29.jpg)
+
+http://css.dzone.com/articles/danger-large-releases-trenord
+
 ## Reducing Risk
 
 Continuous Delivery

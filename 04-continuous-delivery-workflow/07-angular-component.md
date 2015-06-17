@@ -98,6 +98,9 @@ Here you are!
 #Generate appInfo.json from Jenkins build
 
 Better in the build.sh
-
+```
+mkdir -p src/app/data/
+echo "{\"version\": \"${PIPELINE_VERSION}\"}" >src/app/data/appInfo.json
+```
 
 ## Additional Lab: create another component

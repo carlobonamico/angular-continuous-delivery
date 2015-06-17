@@ -8,3 +8,5 @@ Incrementally
 
 Continuously Improve
 
+##
+_Simplicity--the art of maximizing the amount of work not done--is essential_
