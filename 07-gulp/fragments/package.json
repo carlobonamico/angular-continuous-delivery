@@ -1,0 +1,35 @@
+{
+  "name": "angular-pizza-delivery",
+  "version": "0.0.1",
+  "description": "Pizza Devliery Service",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "~0.7.1",
+
+    "gulp-consolidate": "~0.1.2",
+    "gulp-filter": "^2.0.2",
+    "gulp-flatten": "~0.0.4",
+    "gulp-inject": "~1.0.2",
+    "gulp-jshint": "~1.9.0",
+    "gulp-karma": "0.0.4",
+    "gulp-load-plugins": "~0.7.1",
+    "gulp-minify-html": "^0.1.8",
+    "karma-html-reporter": "~0.2.6",
+    "karma-jasmine": "~0.3.1",
+    "karma-jasmine-html-reporter": "~0.1.6",
+    "karma-ng-html2js-preprocessor": "^0.1.2",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "require-dir": "~0.1.0",
+    "karma-junit-reporter": "~0.2.2",
+    "karma-coverage": "~0.2.7"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}

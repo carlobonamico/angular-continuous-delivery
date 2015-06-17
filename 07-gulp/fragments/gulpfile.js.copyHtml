@@ -1,0 +1,35 @@
+'use strict';
+
+var gulp = require('gulp');
+
+gulp.paths = {
+  src: 'src',
+  dist: 'dist',
+  tmp: '.tmp',
+};
+
+//require('require-dir')('./gulp');
+
+
+gulp.task('simple', function () {
+  return gulp.src([
+    gulp.paths.src + '/{app,components}/**/*.html'
+  ]).pipe(gulp.dest(gulp.paths.tmp + '/simple/'));
+});
+
+
+gulp.task('build', ['simple'], function () {
+    //gulp.start('build');
+    console.log("build");
+
+});
+
+gulp.task('clean', [], function () {
+    //gulp.start('build');
+    console.log("clean");
+
+});
+
+gulp.task('default', ['clean'], function () {
+    gulp.start('build');
+});
