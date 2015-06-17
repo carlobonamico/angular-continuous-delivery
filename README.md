@@ -28,6 +28,10 @@ Any smart editor / IDE supporting HTML and JS editing, preferably with syntax hi
 * NetBeans https://netbeans.org/
 * Eclipse http://eclipse.org
 
+Online IDEs
+* https://koding.com
+* https://www.codebox.io/ (also open source and locally installable)
+
 ## Install git
 * https://git-scm.com/downloads
 
